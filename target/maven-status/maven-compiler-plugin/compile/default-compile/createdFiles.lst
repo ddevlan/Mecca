@@ -1,0 +1,8 @@
+com\ddylan\mecca\adapters\MeccaNametagAdapter.class
+com\ddylan\mecca\adapters\MeccaScoreboardAdapter.class
+com\ddylan\mecca\Mecca.class
+com\ddylan\mecca\adapters\MeccaLayoutProvider.class
+com\ddylan\mecca\listener\ListenerHandler.class
+com\ddylan\mecca\listener\FunListener.class
+com\ddylan\mecca\listener\MeccaListener.class
+com\ddylan\mecca\adapters\MeccaAdapterHandler.class

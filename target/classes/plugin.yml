@@ -1,0 +1,5 @@
+name: Mecca
+main: com.ddylan.mecca.Mecca
+version: ${project.version}
+author: ${project.author}
+depend: [xLib, LunarClient-API]
