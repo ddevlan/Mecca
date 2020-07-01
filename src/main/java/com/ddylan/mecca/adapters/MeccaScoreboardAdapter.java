@@ -1,8 +1,8 @@
 package com.ddylan.mecca.adapters;
 
-import com.ddylan.xlib.scoreboard.ScoreboardConfiguration;
-import com.ddylan.xlib.scoreboard.TitleGetter;
-import com.ddylan.xlib.util.Color;
+import com.ddylan.library.scoreboard.ScoreboardConfiguration;
+import com.ddylan.library.scoreboard.TitleGetter;
+import com.ddylan.library.util.Color;
 import org.bukkit.Bukkit;
 
 public class MeccaScoreboardAdapter {

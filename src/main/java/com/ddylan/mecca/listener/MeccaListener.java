@@ -1,8 +1,7 @@
 package com.ddylan.mecca.listener;
 
-import com.ddylan.xlib.util.Color;
+import com.ddylan.library.util.Color;
 import org.bukkit.ChatColor;
-import org.bukkit.entity.Entity;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.EventPriority;

@@ -52,7 +52,7 @@
             <scope>provided</scope>
         </dependency>
 
-        <!--xLib-->
+        <!--Library-->
         <dependency>
             <groupId>com.ddylan</groupId>
             <artifactId>Library</artifactId>

@@ -1,7 +1,7 @@
 package com.ddylan.mecca.adapters;
 
-import com.ddylan.xlib.nametag.NametagInfo;
-import com.ddylan.xlib.nametag.NametagProvider;
+import com.ddylan.library.nametag.NametagInfo;
+import com.ddylan.library.nametag.NametagProvider;
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
 
